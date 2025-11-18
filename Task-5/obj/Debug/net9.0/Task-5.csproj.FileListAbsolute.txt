@@ -1,0 +1,14 @@
+C:\Users\saksh\OneDrive\Documents\Application Development\Workshop-4\Task-5\bin\Debug\net9.0\Task-5.exe
+C:\Users\saksh\OneDrive\Documents\Application Development\Workshop-4\Task-5\bin\Debug\net9.0\Task-5.deps.json
+C:\Users\saksh\OneDrive\Documents\Application Development\Workshop-4\Task-5\bin\Debug\net9.0\Task-5.runtimeconfig.json
+C:\Users\saksh\OneDrive\Documents\Application Development\Workshop-4\Task-5\bin\Debug\net9.0\Task-5.dll
+C:\Users\saksh\OneDrive\Documents\Application Development\Workshop-4\Task-5\bin\Debug\net9.0\Task-5.pdb
+C:\Users\saksh\OneDrive\Documents\Application Development\Workshop-4\Task-5\obj\Debug\net9.0\Task-5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saksh\OneDrive\Documents\Application Development\Workshop-4\Task-5\obj\Debug\net9.0\Task-5.AssemblyInfoInputs.cache
+C:\Users\saksh\OneDrive\Documents\Application Development\Workshop-4\Task-5\obj\Debug\net9.0\Task-5.AssemblyInfo.cs
+C:\Users\saksh\OneDrive\Documents\Application Development\Workshop-4\Task-5\obj\Debug\net9.0\Task-5.csproj.CoreCompileInputs.cache
+C:\Users\saksh\OneDrive\Documents\Application Development\Workshop-4\Task-5\obj\Debug\net9.0\Task-5.dll
+C:\Users\saksh\OneDrive\Documents\Application Development\Workshop-4\Task-5\obj\Debug\net9.0\refint\Task-5.dll
+C:\Users\saksh\OneDrive\Documents\Application Development\Workshop-4\Task-5\obj\Debug\net9.0\Task-5.pdb
+C:\Users\saksh\OneDrive\Documents\Application Development\Workshop-4\Task-5\obj\Debug\net9.0\Task-5.genruntimeconfig.cache
+C:\Users\saksh\OneDrive\Documents\Application Development\Workshop-4\Task-5\obj\Debug\net9.0\ref\Task-5.dll
